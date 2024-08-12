@@ -1,0 +1,19 @@
+@media (width <= 576px){
+    .grid1{
+        grid-template-columns: 1fr;
+    }
+
+    .align{
+        max-width: 300px;
+        margin: auto;
+        padding: 0.5rem;
+    }
+
+    .minpad{
+        padding: 1rem;
+    }
+
+    .subsBody{
+        padding: 3rem;
+    }
+}
